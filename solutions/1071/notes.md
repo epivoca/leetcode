@@ -32,3 +32,5 @@ Constraints:
 ## Tips
 
 Since both strings contains multiples of the identical segment base, their concatenation must be consistent, regardless of the order (str1 + str2 = str2 + str1)
+
+It is kinda clear that len(gcd substring) can't be bigger/smaller than gcd(len(str1), len(str2))
